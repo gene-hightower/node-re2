@@ -3,6 +3,8 @@
 [npm-img]: https://img.shields.io/npm/v/re2.svg
 [npm-url]: https://npmjs.org/package/re2
 
+This version uses RE2::Options::EncodingLatin1 encoding by default.
+
 This project provides bindings for [RE2](https://github.com/google/re2):
 fast, safe alternative to backtracking regular expression engines written by [Russ Cox](http://swtch.com/~rsc/).
 To learn more about RE2, start with an overview
